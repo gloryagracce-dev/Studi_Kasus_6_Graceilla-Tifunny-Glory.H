@@ -1,0 +1,16 @@
+[
+    {
+        "nama": "Gracella",
+        "nim": "2609116079",
+        "mata_kuliah": "Dasar-Dasar Pemrograman",
+        "nilai": 85,
+        "keterangan": "Lulus"
+    },
+    {
+        "nama": "Tifunny",
+        "nim": "26091160177",
+        "mata_kuliah": "Pemograman",
+        "nilai": 88.0,
+        "keterangan": "Lulus"
+    }
+]
